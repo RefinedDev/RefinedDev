@@ -35,12 +35,12 @@ button {
     font-size: 40px;
 }
 
-#description {
+.description {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
 
-#description a:hover{
+.description a:hover{
     filter: brightness(0.7);
 }
